@@ -8,7 +8,6 @@ Una colección de scripts de usuario para automatizar y mejorar la experiencia e
 * [Calcular Rating de Curso](./Calcular%20Rating%20de%20Curso/)
 * [Calcular Rating de Profesor](./Calcular%20Rating%20de%20Profesor/)
 * [Cambiar color en Asana](./Cambiar%20color%20en%20Asana/)
-* [Capturar pantallas en YT manualmente](./Capturar%20pantallas%20en%20YT%20manualmente/)
 * [Capturar pantallas en YT manualmente (Mejorado)](./Capturar%20pantallas%20en%20YT%20manualmente%20(Mejorado)/)
 * [Capturar pantallas en YT por episodios](./Capturar%20pantallas%20en%20YT%20por%20episodios/)
 * [Conversor de imagen a WebP](./Conversor%20de%20imagen%20a%20WebP/)
