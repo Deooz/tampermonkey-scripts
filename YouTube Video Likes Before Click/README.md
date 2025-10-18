@@ -5,7 +5,7 @@
 
 Muestra el contador de "me gusta" y una puntuación de calidad para los videos de YouTube directamente en las miniaturas, antes de que necesites hacer clic.
 
-![Ejemplo de cómo se ve el script](https://via.placeholder.com/600x300.png?text=Añadir+captura+de+pantalla+aquí)
+![Ejemplo de cómo se ve el script](./assets/screenshot.png)
 
 ## ✨ Características
 
