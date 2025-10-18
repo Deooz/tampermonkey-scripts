@@ -5,7 +5,7 @@
 
 Extrae la transcripción completa de un video de YouTube y la presenta en una ventana emergente (popup) flotante y editable.
 
-![Ejemplo de cómo se ve el script](https://via.placeholder.com/600x300.png?text=Añadir+captura+de+pantalla+aquí)
+![Ejemplo de cómo se ve el script](./assets/screenshot.png)
 
 ## ✨ Características
 
