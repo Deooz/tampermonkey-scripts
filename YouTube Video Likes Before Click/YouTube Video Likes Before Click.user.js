@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name         YouTube Video Likes Before Click
-// @namespace    https://github.com/yt-cel
-// @version      1.0.0
+// @namespace    https://github.com/Deooz
+// @version      1.0.1
 // @description  Muestra los "me gusta" y un puntaje de calidad en los videos de YouTube antes de hacer clic.
-// @author       yt-cel
+// @author       Deooz
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @license      MIT
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @downloadURL  https://raw.githubusercontent.com/yt-cel/tampermonkey-scripts/main/YouTube%20Video%20Likes%20Before%20Click/YouTube%20Video%20Likes%20Before%20Click.user.js
-// @updateURL    https://raw.githubusercontent.com/yt-cel/tampermonkey-scripts/main/YouTube%20Video%20Likes%20Before%20Click/YouTube%20Video%20Likes%20Before%20Click.user.js
+// @downloadURL  https://raw.githubusercontent.com/Deooz/tampermonkey-scripts/master/YouTube%20Video%20Likes%20Before%20Click/YouTube%20Video%20Likes%20Before%20Click.user.js
+// @updateURL    https://raw.githubusercontent.com/Deooz/tampermonkey-scripts/master/YouTube%20Video%20Likes%20Before%20Click/YouTube%20Video%20Likes%20Before%20Click.user.js
 // ==/UserScript==
 
 (async function () {
